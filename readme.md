@@ -21,4 +21,4 @@ Player 2 controls the libra with the arrow keys to get away from the saggitariou
 </br>
 Multiplayer
 </br></br>
-Thought only a quick and minimal project, the multiplayer mode can be a competitive and intense game between the players. I intend to add more features and improve the gameplay. Once it's ready, I'll be hosting it online for people to try 🙂
+Though only a quick and minimal project, the multiplayer mode can be a competitive and intense game between the players. I intend to add more features and improve the gameplay. Once it's ready, I'll be hosting it online for people to try 🙂
